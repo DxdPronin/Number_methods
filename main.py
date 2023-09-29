@@ -11,7 +11,7 @@ def funct(x):
 
 
 def funct1(x):
-    return 5*pow(x, 4) - x*5 - 4
+    return 5*pow(x, 4) - 5
 
 
 def funct2(x):
